@@ -31,3 +31,11 @@
     transform: rotate(360deg);
   }
 }
+
+.App p {
+  font-size: 14px;
+}
+.App a {
+  color: aquamarine;
+  text-decoration: none;
+}
